@@ -1,20 +1,61 @@
 # DecodeLabs Data Science Internship
 
-This repository contains projects completed during the DecodeLabs Virtual Internship.
+## Overview
+
+This repository contains all projects completed during the DecodeLabs Data Science Internship Program.
 
 ## Projects
 
 ### Project 1: Advanced EDA & Feature Engineering
-- Missing Value Handling
-- Outlier Detection using IQR
-- Feature Engineering
-- One-Hot Encoding
+
+* Data Cleaning
+* Feature Engineering
+* Exploratory Data Analysis
+* Data Visualization
 
 ### Project 2: Fraud Detection Pipeline
-- SMOTE
-- Logistic Regression
-- Random Forest
-- Precision, Recall, ROC-AUC Evaluation
 
-### Project 3
-Coming
+* Data Preprocessing
+* Classification Models
+* Fraud Detection
+* Model Evaluation
+
+### Project 3: Customer Segmentation
+
+* PCA (Principal Component Analysis)
+* K-Means Clustering
+* Elbow Method
+* Silhouette Score
+* Customer Persona Generation
+
+### Project 4: NLP & Sentiment Analysis
+
+* Text Preprocessing
+* TF-IDF Vectorization
+* Naive Bayes Classification
+* Sentiment Prediction
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* NLTK
+
+## Internship Skills Acquired
+
+* Data Cleaning
+* Feature Engineering
+* Machine Learning
+* Unsupervised Learning
+* Natural Language Processing
+* Data Visualization
+* Business Intelligence
+
+## Author
+
+Haneef Mohammed
+
+DecodeLabs Data Science Internship – 2026
